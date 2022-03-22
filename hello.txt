@@ -7,10 +7,8 @@ hello world！
 hello world！
 hello world！
 hello world！
-<<<<<<< HEAD
 hello world！  master first commit!
 hello world！ hot-fix first commit!
->>>>>>> hot-fix
 hello world！
 hello world！
 hello world！
